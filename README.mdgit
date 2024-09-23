@@ -1,0 +1,1 @@
+"# HelloWorld_nextjs"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AliJazib4/HelloWorld_nextjs.gitgit push -u origin main
